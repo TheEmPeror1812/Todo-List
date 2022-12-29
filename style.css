@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Ubuntu&display=swap');
+.nav-custom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85px;
+    font-family: 'Merriweather', serif;
+}
+
+.nav-bar{
+    background-color: #9b9be7;
+}
+
+.custom-input{
+    margin: 33px 2px;
+}
+
+.custom-input h4{
+    margin: 10px 0px;
+}
+
+.custom-input input{
+    width: 100%;
+    border-radius: 20px;
+    padding: 2px 11px;
+    background-color: azure;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+
+.custom-button{
+    border-radius: 10px;
+    margin: 5px 4px;
+    background-color: azure;
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+
+.table-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 800px;
+}
+
+.title-table{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    overflow-y: auto;
+}
+
+.description-table{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    overflow-y: auto;
+}
+
+.ti{
+    height: 80%;
+    width: 60%;
+    height: 80%;
+    width: 60%;
+    margin: 0px 20px;
+    border-radius: 25px;
+}
+
+.span-table{
+    text-align: center;
+    display: block;
+    font-size: 17px;
+}
+
+.title-table p{
+    text-align: center;
+}
+
+.description-table p{
+    text-align: center;
+}
+
+.text{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 34px;
+    margin-bottom: -24px;
+}
+
+.te{
+    font-size: 22px;
+    border: 2px solid black;
+    background-color: azure;
+    border-radius: 20px;
+    padding: 3px 28px;
+    margin: 0px auto;
+}
