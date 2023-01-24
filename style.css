@@ -90,10 +90,15 @@
 }
 
 .te{
-    font-size: 22px;
+    font-size: 20px;
     border: 2px solid black;
     background-color: azure;
     border-radius: 20px;
     padding: 3px 28px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    width: 47%;
     margin: 0px auto;
 }
